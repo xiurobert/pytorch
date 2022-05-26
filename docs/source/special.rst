@@ -51,4 +51,5 @@ Orthogonal Polynomials
 Chebyshev Polynomials
 ^^^^^^^^^^^^^^^^^^^^^
 
+.. autofunction:: chebyshev_polynomial_t
 .. autofunction:: chebyshev_polynomial_u
